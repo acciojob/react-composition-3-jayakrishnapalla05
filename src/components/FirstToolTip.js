@@ -23,7 +23,7 @@ const FirstToolTip=({text,children})=>{
             { showToolTip && (
                 <div className='tooltiptext' >
                     <div>
-                        <h2 className='tooltiptext'>{text}</h2>
+                        <h2 className='tooltip'>{text}</h2>
                     </div>
                     </div>
             )}
