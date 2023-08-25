@@ -25,6 +25,7 @@ const FirstToolTip=({text,children})=>{
                     <div>
                         <h2 className='tooltiptext'>{text}</h2>
                     </div>
+                    </div>
             )}
         </div>
 
